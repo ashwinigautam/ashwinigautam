@@ -24,7 +24,7 @@ I'm passionate about building tech that not only performs but aligns with values
 
 ## 📈 GitHub Stats
 
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwini&show_icons=true&theme=radical)
+![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinigautam&show_icons=true&theme=radical)
 
 ---
 
